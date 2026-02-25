@@ -1,0 +1,10 @@
+[project]
+name = "srtmanager"
+version = "0.1.0"
+description = "Advanced, expressive, production-safe subtitle manager for `.srt` files."
+readme = "README.md"
+dependencies = []
+
+[build-system]
+requires = ["uv_build"]
+build-backend = "uv_build"
