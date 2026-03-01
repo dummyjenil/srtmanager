@@ -1,9 +1,9 @@
 [project]
 name = "srtmanager"
-version = "0.1.0"
-description = "Advanced, expressive, production-safe subtitle manager for `.srt` files."
+version = "0.2.0"
+description = "A production-safe Python library for reading, editing, transforming, and saving .srt subtitle files."
 readme = "README.md"
-dependencies = []
+dependencies = ["srt"]
 
 [build-system]
 requires = ["uv_build"]
